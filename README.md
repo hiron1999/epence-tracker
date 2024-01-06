@@ -1,4 +1,4 @@
-# expence-tracker
+# Expense-tracker
 
 ![image](https://github.com/hiron1999/expence-tracker/assets/46570534/a64708e6-aecd-4b9a-adaa-7793851f1649)
 
